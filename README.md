@@ -40,6 +40,7 @@ Articles and datasets in the field of protein-molecule interaction in DL
 * [IGT](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac162/6581433?redirectedFrom=fulltext)
 * [DrugVQA](https://www.nature.com/articles/s42256-020-0152-y#change-history)
 
+## 5 Others
 ### P-P binding sites
 * [PepNN: a deep attention model for the identification of peptide binding sites](https://www.nature.com/articles/s42003-022-03445-2)
 * [INDEPENDENT SE(3)-EQUIVARIANT MODELS FOR END-TO-END RIGID PROTEIN DOCKING](https://arxiv.org/pdf/2111.07786.pdf)
